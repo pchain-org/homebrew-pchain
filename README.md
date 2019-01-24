@@ -9,14 +9,14 @@ brew tap pchain-org/pchain
 brew install pchain
 ```
 
-Upgrade pchain client
+Upgrade the latest pchain client
 
 ```shell
 brew upgrade pchain
 ```
-After installing, run `pchain account new` to create an account on your node.
-
 Make sure to check the different options and commands with `pchain --help`
+
+After installing, run `pchain account new` to create an account on your node.
 
 ## Building from source
 
