@@ -1,7 +1,7 @@
 class Pchain < Formula
   homepage 'https://github.com/pchain-org/pchain'
   url 'https://github.com/pchain-org/pchain.git'
-  version '0.0.2'
+  version '0.0.3'
   
   # Require El Capitan at least
   depends_on :macos => :el_capitan
